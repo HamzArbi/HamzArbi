@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Anything related to desktop application developpment**
 
-- 📫 How to reach me **contact@hamza-arbi.com**
+- 📫 How to reach me **hamza.arbi.15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
