@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Anything related to desktop application developpment**
 
-- 📫 How to reach me **hamza.arbi.15@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ar_hamza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ar_hamza_" height="30" width="40" /></a>
