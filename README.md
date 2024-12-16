@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate Qt/C++ Software Developer from Algeria 🇩🇿</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzarbi&label=Profile%20views&color=008040&style=plastic" alt="hamzarbi" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HmzaLarbi&label=Profile%20views&color=008040&style=plastic" alt="HmzaLarbi" /> </p> 
  
 
-- 🔭 I’m currently working with <a href="https://www.bybtech.it"> **BYB Tech** </a>
+- 🔭 I’m currently working with <a href="https://www.bybtech.it"> **BYB Tech** </a> and <a href="https://www.powergaugepro.com/"> **Power Gauge Pro** </a>
 
 - 🌱 I’m currently learning **Electronics and Programming on ESP32**
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ar_hamza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ar_hamza_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamza-arbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-arbi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/larbihamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-arbi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11237293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11237293" height="30" width="40" /></a>
 <a href="https://instagram.com/ar.hmza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ar.hmza" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hamzaarbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hamzaarbi" height="30" width="40" /></a>
